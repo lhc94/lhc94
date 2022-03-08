@@ -1,7 +1,8 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=wave&color=C7A48B&height=300&section=header&textBh-363636&text=Hochang%20Lee&fontSize=90" />
 </div>
-
+<br>
+<br>
 <div align=center>🛠Tech Stack🛠</div>
 <br>
 <br>
@@ -34,7 +35,13 @@
 <div align=center>
  🍏hochang.log 🍏https://velog.io/@ds032
 </div>
+
 <br>
 <br>
+<br>
+<br>
+<div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2363685F&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false"/></a>
+</div>
+
 
